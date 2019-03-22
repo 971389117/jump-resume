@@ -1,0 +1,14 @@
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * CONTENTS............You’re reading it!
+ * RESET...............Set our reset defaults
+ * TOP-BAR...............顶部导航栏
+ * Banner...............Banner
+ */
+*{
+}
+.token.selector,.token.punctuation,.token.property,.token.function,.token.comment{
+  color: black;
+}
